@@ -1,34 +1,106 @@
 {
-    "events": [
-      {
-        "id": 123,
-        "category": "animal welfare",
-        "title": "Cat Adoption Day",
-        "description": "Find your new feline friend at this event.",
-        "location": "Meow Town",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "organizer": "Kat Laydee"
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 7261922,
+      "user": {
+        "id": "abc123",
+        "name": "Hoang Tien"
       },
-      {
-        "id": 456,
-        "category": "food",
-        "title": "Community Gardening",
-        "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
-        "date": "March 14, 2022",
-        "time": "10:00",
-        "organizer": "Fern Pollin"
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Hoang Tien"
       },
-      {
-        "id": 789,
-        "category": "sustainability",
-        "title": "Beach Cleanup",
-        "description": "Help pick up trash along the shore.",
-        "location": "Playa Del Carmen",
-        "date": "July 22, 2022",
-        "time": "11:00",
-        "organizer": "Carey Wales"
-      }
-    ]
-  }
+      "title": "Title",
+      "description": "Description",
+      "location": "London",
+      "date": "",
+      "time": "10:00",
+      "attendees": []
+    },
+    {
+      "id": 96389,
+      "user": {
+        "id": "abc123",
+        "name": "Hoang Tien"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Hoang Tien"
+      },
+      "title": "Test 01",
+      "description": "Test",
+      "location": "New York",
+      "date": "",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 5021869,
+      "user": {
+        "id": "abc123",
+        "name": "Hoang Tien"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Hoang Tien"
+      },
+      "title": "Test 02",
+      "description": "Test 02",
+      "location": "London",
+      "date": "",
+      "time": "14:00",
+      "attendees": []
+    },
+    {
+      "id": 8409558,
+      "user": {
+        "id": "abc123",
+        "name": "Hoang Tien"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Hoang Tien"
+      },
+      "title": "Success",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
